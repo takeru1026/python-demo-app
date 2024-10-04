@@ -3,7 +3,7 @@ from roboter.models import ranking
 from roboter.views import console
 
 
-DEFAULT_ROBOT_NAME = 'Roboko'
+DEFAULT_ROBOT_NAME = 'Robo'
 
 
 class Robot(object):
